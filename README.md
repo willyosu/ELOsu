@@ -16,6 +16,7 @@ Most obviously you will need **Python3**; the files have been tested using 3.7 a
 ***For normal use:***
 1. Get all of the required packages by running `pip install -r requirements.txt` .
 2. Use it.
+
 ***For use with the built in Discord bot:***
 1. If you haven't already create a bot application on Discord and find out your token
 2. Make two txt files; one called `token.txt` for your Discord bot token, and one called `key.txt` for your osu! API key.
