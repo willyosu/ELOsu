@@ -5,9 +5,11 @@ An attempt at making unofficial ratings for osu! matches using khazhyk's osuapi 
 Most obviously you will need **Python3**; the files have been tested using 3.7 and may work with prior versions.
 
 *The Python3 standard lib should come with the following packages, but if you don't have them for some reason you can probably find them on pip:*
+
 math, os, csv, json, datetime, asyncio
 
 *And these packages are the ones you definitely need to download (see **Setup** below for easy install using pip).*
+
 aiohttp, discord, nest_asyncio, bs4, osuapi
 
 ### Setup
