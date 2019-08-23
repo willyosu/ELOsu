@@ -1,0 +1,11 @@
+math
+os
+asyncio
+aiohttp
+discord
+csv
+datetime
+nest_asyncio
+bs4
+osuapi
+json
