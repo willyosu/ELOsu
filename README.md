@@ -1,3 +1,6 @@
+*This has now been implemented into a constantly evolving system in the [osu!matchmaking server](https://discord.gg/CehChep), drop by to help out or play!*
+
+
 # ELOsu
 An attempt at making unofficial ratings for osu! matches using khazhyk's osuapi package. Uses modified ELO function to calculate ratings of users. Feel free to modify to your own discression and make different ranking systems using the classes set up when I make the API requests. If you would like an example of how to use the functions of just `elosu.py` then look at the Discord bot as an example for how to call and pass arguments easily.
 
